@@ -12,7 +12,7 @@ private:
         int days_in_shelter;
     };
     
-    Pet pets[10]; // Array to store up to 10 pets
+    Pet pets[100]; // Array to store up to 10 pets
     int num_of_pets;
 
 public:
